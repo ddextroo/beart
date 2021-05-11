@@ -50526,7 +50526,7 @@ r[1]=r[1]+s[1]
 r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 T.yI.prototype={
-Ez:function(a){var s=null,r=L.fF("Unleash The Beast",A.d1(s,s,C.i,s,s,s,s,s,s,s,s,50,s,C.bH,s,s,!0,s,s,s,s,s,s)),q=L.fF("Beart is an app that allows artists to make their work bt uploading it online and earning money through selling and commission pay.",A.d1(s,s,C.i,s,s,s,s,s,s,s,s,16,s,s,s,s,!0,s,s,s,s,s,s)),p=K.a3m(new P.bC(20,20)),o=t.fQ
+Ez:function(a){var s=null,r=L.fF("Unleash The Beast",A.d1(s,s,C.i,s,s,s,s,s,s,s,s,50,s,C.bH,s,s,!0,s,s,s,s,s,s)),q=L.fF("Beart is an app that allows artists to make their work by uploading it online and earning money through selling and commission pay.",A.d1(s,s,C.i,s,s,s,s,s,s,s,s,16,s,s,s,s,!0,s,s,s,s,s,s)),p=K.a3m(new P.bC(20,20)),o=t.fQ
 p=M.p4(s,T.K7(H.c([r,new T.e6(C.oF,q,s),B.a4y(new T.e6(C.uH,L.fF("Download App",A.d1(s,s,new P.H(4294705407),s,s,s,s,s,s,s,s,16,s,s,s,s,!0,s,s,s,s,s,s)),s),C.i,new T.Od(this),new X.cR(p,C.m))],o),C.iE),s,s,s,s,s,a)
 return H.c([p,new T.e6(C.oF,new U.pP(M.af9(s,s,new L.oI("assets/images/logo.png",s,s)),a,s),s)],o)},
 O:function(a,b){return new A.q5(new T.Oc(this),null)}}
